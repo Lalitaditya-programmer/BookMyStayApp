@@ -1,11 +1,3 @@
-/**
- * ======================================================
- * ABSTRACT CLASS – Room
- * ======================================================
- *
- * Use Case 2: Basic Room Types & Static Availability
- */
-
 public abstract class Room {
 
     protected int numberOfBeds;
